@@ -71,4 +71,3 @@ The **Expiry Reminder App** streamlines this by offering a centralized dashboard
   updatedAt: Date
 }
 ```
-=======
