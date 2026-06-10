@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⏳ Expiry Reminder App
 
 [![Tech Stack](https://img.shields.io/badge/Stack-MERN%20%2F%20Next.js-blue.svg)](#tech-stack)
@@ -71,3 +72,6 @@ The **Expiry Reminder App** streamlines this by offering a centralized dashboard
   updatedAt: Date
 }
 ```
+=======
+# expiry-reminder
+>>>>>>> 8aa0602dad05cc807039f4932cf2e42eca9b1fdd
